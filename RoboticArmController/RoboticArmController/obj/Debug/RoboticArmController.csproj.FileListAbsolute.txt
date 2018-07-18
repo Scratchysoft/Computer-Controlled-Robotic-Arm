@@ -1,0 +1,10 @@
+c:\users\ben\source\repos\RoboticArmController\RoboticArmController\bin\Debug\RoboticArmController.exe.config
+c:\users\ben\source\repos\RoboticArmController\RoboticArmController\bin\Debug\RoboticArmController.exe
+c:\users\ben\source\repos\RoboticArmController\RoboticArmController\bin\Debug\RoboticArmController.pdb
+c:\users\ben\source\repos\RoboticArmController\RoboticArmController\obj\Debug\RoboticArmController.csprojAssemblyReference.cache
+c:\users\ben\source\repos\RoboticArmController\RoboticArmController\obj\Debug\RoboticArmController.Form1.resources
+c:\users\ben\source\repos\RoboticArmController\RoboticArmController\obj\Debug\RoboticArmController.Properties.Resources.resources
+c:\users\ben\source\repos\RoboticArmController\RoboticArmController\obj\Debug\RoboticArmController.csproj.GenerateResource.cache
+c:\users\ben\source\repos\RoboticArmController\RoboticArmController\obj\Debug\RoboticArmController.csproj.CoreCompileInputs.cache
+c:\users\ben\source\repos\RoboticArmController\RoboticArmController\obj\Debug\RoboticArmController.exe
+c:\users\ben\source\repos\RoboticArmController\RoboticArmController\obj\Debug\RoboticArmController.pdb
